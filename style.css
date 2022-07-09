@@ -231,14 +231,11 @@ font-size: 15px;
 
 }
 
-.content-section .content h3 {
-    margin-top: 20px;
-}
-
 .content-section .content p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-top: 10px;
-    font-size: 15px;
-    line-height: 1.5;
+    font-size: 18px;
+   
     
     
 }
@@ -259,7 +256,8 @@ color:blue;
 
 
 
-/*CONTACT ME*/
+/*CONTACT INFO*/
+
 .section2{
     background-color: rgb(212, 245, 212);
     width: 100%;
@@ -274,6 +272,7 @@ color:blue;
     justify-content: center;
     align-items: left;
     flex-direction: column;
+    font-size: 23px;
     
 }
 
@@ -284,7 +283,7 @@ color:blue;
 .footer {
     background-color:black;
     color: white;
-    height: 35px;
+    height: 45px;
     
 }
 
