@@ -153,20 +153,20 @@ list-style-type: none;
 /*TEXT*/
 /*CSS,JS, etc*/
 #sub2 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 19px;
    
        
 }
 /*Name of project*/
 #sub2 span{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
          
    
 }
 
  /*BUTTONS*/
-input {
+button {
     position: relative;
     background:#2196f3;
     display: inline-block;
